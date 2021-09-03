@@ -1,4 +1,4 @@
-  <h1> Property Price-Regression </h1>
+  <h1> Property Price-Regression Model </h1>
     
               In this notebook, I have made 3 regression models and compared them from each other, 
               and then made a hyperparameter tunning model to get good accuracy. There are 81 
@@ -121,12 +121,10 @@
 <h3>    7. Missing value treatment for categorical features</h3>
         All the missing values of categorical columns are filled with Mode value
         
+        
 <h3>    8. Scale our numeric variables using min-max normalization </h3>
- 
  <h3>   9. Perform one-hot encoding on categorical variables </h3>      
- 
  <h3>  10. Concatenate the numeric and encoded variables to the dataframe </h3>   
- 
  <h3>  11. Create training and testing datasets using the train_test_split </h3> 
  
  
@@ -162,4 +160,4 @@
          'min_samples_leaf': 10, 'min_samples_split': 15, 'n_estimators': 85}  
  
 
-    <h3> 16.For complete analysis please see my python notebook 'Naive-Bayes-Classification-Project'.</h3>
+   <h3> 16.For complete analysis please see my python notebook 'Regression-Models-with-Property-Price-Dataset'.</h3>
