@@ -6,7 +6,7 @@
               I am only displaying a subset of the variables, as all of them will be discussed in 
               more detail throughout the notebook.
     
-  <h3>  1. Packages Used to solve this classification problem </h3>
+  <h3>  1. Packages Used to solve this Regression problem </h3>
     
           a.  import pandas as pd
           b.  import numpy as np
